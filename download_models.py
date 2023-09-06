@@ -53,7 +53,7 @@ def download_models_bt():
     yield ""
 
 urls = [
-    "https://huggingface.co/deepinsight/inswapper/resolve/main/inswapper_128.onnx",
+    "https://github.com/Em1tSan/refacer-ru/releases/download/1.4/inswapper_128.onnx",
     "https://github.com/TencentARC/GFPGAN/releases/download/v1.3.0/GFPGANv1.4.pth",
     "https://huggingface.co/bluefoxcreation/Codeformer-ONNX/resolve/main/codeformer.onnx",
     "https://github.com/harisreedhar/Face-Upscalers-ONNX/releases/download/Models/GPEN-BFR-256.onnx",
